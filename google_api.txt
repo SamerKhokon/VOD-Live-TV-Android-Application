@@ -1,0 +1,41 @@
+Project: BTCL-TV
+Details about your project
+***********************************
+Project ID: btcl-tv
+Project number: 677814940789
+
+keytool -exportcert -alias androiddebugkey -keystore C:\Users\user\.android -list -v
+
+
+Alias name: androiddebugkey
+Creation date: Aug 17, 2015
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 34e010fa
+Valid from: Mon Aug 17 16:23:55 BDT 2015 until: Wed Aug 09 16:23:55 BDT 2045
+Certificate fingerprints:
+         MD5:  A6:DF:4E:D5:69:96:AC:10:5E:15:47:68:AB:DC:46:69
+         SHA1: AE:1A:FA:27:EB:86:4A:55:EC:94:57:12:3F:7E:F5:19:72:45:2F:24
+         SHA256: 15:C8:16:64:7F:85:3B:55:A6:4B:04:A2:E5:7A:0C:B9:85:94:E5:B6:D6:14:39:C4:A8:74:17:8F:00:1D:66:78
+         Signature algorithm name: SHA256withRSA
+         Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 77 EC D9 CF F3 AB 18 C0   03 25 1D AB 98 99 59 B8  w........%....Y.
+0010: 0E D3 74 F6                                        ..t.
+]
+]
+
+*******************************************************************************
+Here is your client ID
+677814940789-2jl8fgr2n7376jjut0fhjt0o3iei4h00.apps.googleusercontent.com
+********************************************************************************
+Here is your API key
+AIzaSyAMd7QL2Qkt2-Txhfe3qL_L7qGlukKn9lY

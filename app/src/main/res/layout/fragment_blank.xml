@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    >
+
+    <VideoView
+        android:id="@+id/vod_single_item"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+
+    <TextView
+        android:id="@+id/blank_txt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        android:text="@string/hello_blank_fragment" />
+
+</LinearLayout>

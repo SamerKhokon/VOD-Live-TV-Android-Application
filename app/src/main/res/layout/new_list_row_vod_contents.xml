@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:padding="5dip" >
+        
+    <!--  ListRow Left sied Thumbnail image -->
+    <LinearLayout android:id="@+id/vod_humbnail"
+        android:layout_width="150dip"
+        android:layout_height="130dip"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"  
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="5dip">
+ 
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/vod_list_image"
+            android:layout_width="match_parent"
+            android:layout_height="130dip"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/contentDesc"
+            android:src="@drawable/tv"/>
+ 
+    </LinearLayout>
+ 
+    
+    
+    <!-- Title Of File Name -->
+    <TextView
+        android:id="@+id/vod_titleVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/vod_humbnail"
+        android:layout_toRightOf="@+id/vod_humbnail"
+        android:text="@string/file_name"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+ 
+    <!-- File Time Duration -->
+    <TextView
+        android:id="@+id/vod_timeDuration"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vod_titleVideo"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/vod_humbnail"
+        android:text="@string/file_duration" />
+    
+    <!-- Category Name -->
+    <TextView
+        android:id="@+id/vod_categoryVideo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vod_timeDuration"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/vod_humbnail"
+        android:text="@string/category_text" />
+
+
+    <!-- Rightend Duration -->
+    <TextView
+        android:id="@+id/vod_durationSize"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_below="@+id/vod_categoryVideo"
+        android:layout_toRightOf="@+id/vod_humbnail"
+        android:text="@string/duration_text"
+        android:textSize="12sp"
+        android:textColor="#10bcc9"
+        android:textStyle="bold"/>
+
+    <!-- Description Name -->
+    <TextView
+        android:id="@+id/vod_description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vod_durationSize"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/vod_humbnail"
+        android:text="@string/description_text" />     
+ 
+
+    
+     <!-- Rightend Arrow -->
+     <ImageView 
+        android:id="@+id/vod_arrowImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/contentDesc"
+        />
+ 
+</RelativeLayout>

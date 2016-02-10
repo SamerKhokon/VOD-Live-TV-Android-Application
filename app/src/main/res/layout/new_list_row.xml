@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#b0bec5"
+    android:padding="5dip" >
+        
+    <!--  ListRow Left sied Thumbnail image -->
+    <LinearLayout android:id="@+id/thumbnails"
+        android:layout_width="200dip"
+        android:layout_height="150dip"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"  
+        android:layout_marginTop="10dp"      
+        android:layout_marginRight="5dip">
+ 
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/list_images1"
+            android:layout_width="200dip"
+            android:layout_height="150dip"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/contentDesc"
+            android:src="@drawable/pic9"/>
+ 
+    </LinearLayout>
+ 
+    
+    
+    <!-- Title Of File Name -->
+    <TextView
+        android:id="@+id/titleVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/thumbnails"
+        android:layout_toRightOf="@+id/thumbnails"
+        android:text="@string/file_name"
+        android:textColor="#040404"
+        android:typeface="sans"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+ 
+    <!-- File Time Duration -->
+    <TextView
+        android:id="@+id/timeDuration"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titleVideo"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnails"
+        android:text="@string/file_duration" />
+    
+    <!-- Category Name -->
+    <TextView
+        android:id="@+id/categoryVideo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timeDuration"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnails"
+        android:text="@string/category_text" />    
+    
+ 	<!-- Description Name -->
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/categoryVideo"
+        android:textColor="#343434"
+        android:textSize="12sp"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnails"
+        android:text="@string/description_text" />     
+ 
+    <!-- Rightend Duration -->
+    <TextView
+        android:id="@+id/durationSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/title"
+        android:gravity="right"
+        android:text="@string/duration_text"
+        android:layout_marginRight="5dip"
+        android:textSize="12sp"
+        android:textColor="#10bcc9"
+        android:textStyle="bold"/>    
+    
+     <!-- Rightend Arrow -->
+     <ImageView 
+        android:id="@+id/arrowImage" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/contentDesc"
+        />
+ 
+</RelativeLayout>

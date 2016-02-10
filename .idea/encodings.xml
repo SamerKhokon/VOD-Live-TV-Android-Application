@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/BitmapLruCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/MyApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/SplashActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/adapter/ContentsListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/adapter/CustomAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/adapter/DrawerItemCustomAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/adapter/VodContentsListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/BlankFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentContentV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentFive.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentFour.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentOne.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentSample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentSix.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentTab.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentTabContents.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentTabTv.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentTabVod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentThree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/fragment/FragmentTwo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/ContentItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/Contents.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/GcmConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/ObjectDrawerItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/TvHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nsi/btcltv/helper/Video.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/custom_header.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/drawer_list_row.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_blank.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_content_v2.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_five.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_four.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_one.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sample.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_contents.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_tv.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_vod.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_test.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_three.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_two.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_row.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/new_list_row.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/new_list_row_vod_contents.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/menu_splash.xml" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

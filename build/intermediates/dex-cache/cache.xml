@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-1e023aaf583bb8b1ae5ab0e00bda5c6c5d06a4f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\.gradle\caches\modules-2\files-2.1\com.koushikdutta.urlimageviewhelper\urlimageviewhelper\1.0.4\67125d743e0035a1b157ba8210c2abf1ff374e10\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4-6f8c2ac5452a1705e06834d36264f31984d45ca0.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\volley-3ef3c281f80739c5c03fc20ec57302ce9ffc62ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\1.1.5\4ef131026f46c173951c96007eba27764c2835e3\ion-1.1.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4ef131026f46c173951c96007eba27764c2835e3">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\ion-1.1.5-4309b961c219f961639ffadb1fd13da8ee8ace54.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\1.1.5\b61d002793332482196aa03e1a628fc54fa72080\androidasync-1.1.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b61d002793332482196aa03e1a628fc54fa72080">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\androidasync-1.1.5-9de478bd53768dba4d693de5200f7446a214b433.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\classes-858eb719105293b0b5006c4a477de4a3ea6de11e.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\classes-b35f7c98951d290b7129980455ea2de20a765ef8.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0da8498a7d3337b714250788b71519b8215929bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\exploded-aar\me.neavo\vitamio\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42758c720605ffd5916f008ae3cbdee5617afbd3">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\classes-9f42494d9f456e06491b1d64fe412b6ee462e664.jar" />
+    </item>
+    <item
+        jar="C:\Users\zahid\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\zahid\AndroidStudioProjects\Btcltv\app\build\intermediates\pre-dexed\debug\gson-2.2.4-1864b9a83dca0534aabe435ecd33c2658c1eeff6.jar" />
+    </item>
+
+</items>
